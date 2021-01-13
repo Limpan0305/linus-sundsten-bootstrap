@@ -1,83 +1,86 @@
 h1 {
-    text-align: center;
-    font-size: 60px;
+    text-align: center; /* Placerar hela sidans rubrik i mitten */
+    font-size: 60px; /* Ändrar storleken på rubriken */
 }
 
 h2 {
-    text-align: center;
+    text-align: center; /* Placerar rubriken inom divtaggen i mitten */
 }
 
 p {
-    text-align: center;
+    text-align: center; /* Placerar min brödtext inom boxarna/divtagarna i mitten */
 }
 .element {
-    background-color: coral;
-    border-radius: 20px;
+    background-color: coral; /* Väljer bakgrundsfärg för boxen där faktan om element står */
+    border-radius: 30px; /* Rundar kanterna på boxen för en finare look */
 }
 
 .html {
     background-color: #6f42c1;
-    border-radius: 20px;
+    border-radius: 30px;
 }
 
 .id {
     background-color: #28a745;
-    border-radius: 20px;
+    border-radius: 30px;
 }
 
 .class {
     background-color: #ffc107;
-    border-radius: 20px;
+    border-radius: 30px;
 }
 
 .meta {
     background-color: #dc3545;
-    border-radius: 20px;
+    border-radius: 30px;
 }
 
 .responsive {
     background-color: #007bff;
-    border-radius: 20px;
+    border-radius: 30px;
 }
 
 .http {
     background-color: #e83e8c;
-    border-radius: 20px;
+    border-radius: 30px;
 }
 
 .https {
     background-color: grey;
-    border-radius: 20px;
+    border-radius: 30px;
 }
 
 .compressed_data {
     background-color: aqua;
-    border-radius: 20px;
+    border-radius: 30px;
 }
 
 .cdn {
     background-color: #28a745;
-    border-radius: 20px;
+    border-radius: 30px;
 }
 
 .local_bootstrap {
     background-color: #fd7e14;
-    border-radius: 20px;
+    border-radius: 30px;
 }
 
 .jquery {
     background-color: #17a2b8;
-    border-radius: 20px;
+    border-radius: 30px;
 }
 
 .flexbox {
     background-color: #6610f2;
-    border-radius: 20px;
+    border-radius: 30px;
 }
 
 .grid {
-    background-color: #20c997;
-    border-radius: 20px;
+    background-color: #30c997;
+    border-radius: 30px;
 }
 
-
+.code_snippets {
+    background-color: rosybrown; 
+    border-radius: 30px;
+}
